@@ -1,0 +1,2 @@
+we can get undefined by many ways, but null is somthing that depeloper set by him self.
+Null means there is no value empty. But for undefined this means there is no appropriate value for the variable which you searching.

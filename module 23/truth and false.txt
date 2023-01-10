@@ -1,0 +1,20 @@
+The if condition will false by default for this conditions 
+
+1. 0
+2. ''
+3. undefined
+4. null 
+5. NaN 
+
+except this other things depends on the condition you set and the validation of that condition. 
+Also you will have the value true if you give any string inside the () without any condition. 
+
+like ,
+name = "Ahmed";
+if(name){
+    consol.log("true");
+}else{
+    consol.log("false");
+}
+
+this will print true as there is no condition only string
