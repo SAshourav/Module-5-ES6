@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    padding: 15px 10px;
+    margin: 20px;
+    background-color: darkcyan;
+    color: white;
+    border-radius: 7px;
+    font-size: 15px;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.section{
+    text-align: center;
+    margin-left: 470px;
+}
+.btn{
+    text-align: center;
+}
+#quote{
+    min-height: 150px;
+    max-width: 50%;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    border: 2px solid black;
+}
