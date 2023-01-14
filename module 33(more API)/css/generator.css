@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 15px;
+}
+button{
+    padding: 10px 5px;
+    background-color: darkcyan;
+    color: white;
+    border-radius: 7px;
+    font-size: 15px;
+}
+button:hover{
+    background-color: coral;
+    color: white;
+}
+#user-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+.user-info{
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: black solid 2px;
+    border-radius: 10px;
+}
+#details-container{
+    padding: 10px;
+    margin: 5px;
+    background-color: darkgrey;
+    min-height: 200px;
+    max-width: 50%;
+}
+#details-container img{
+    width: 200px;
+    height: 100px;
+}
